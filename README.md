@@ -1,4 +1,4 @@
-### Implementacja protokołu uwierzytelniania SRP-6a ###
+### Implementacja protokołu uwierzytelniania SRP-6a (ze zmianami Blizzard Entertainment) ###
 
 * Protokół wykorzystywany przez serwer uwierzytelniania gry World of Warcraft stworzony przez Blizzard Entertainment
 * Miks implementacji SRP-6a przedstawionego w [RFC 5054](https://www.rfc-editor.org/rfc/rfc5054) oraz SRP-3 opisanego w [RFC 2945](https://www.rfc-editor.org/rfc/rfc2945)
